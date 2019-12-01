@@ -41,25 +41,25 @@ The dataset can be downloaded for multiple cities. Below are the dataset details
 ### Dataset Details:
 
 Los Angeles:
-•	Total number of records: 20M
-•	Size: 4.85GB
-•	Timeline: 2016 - 2019
-•	Format: CSV
+*	Total number of records: 20M
+*	Size: 4.85GB
+*	Timeline: 2016 - 2019
+*	Format: CSV
 
 Boston:
-•	Total number of records: 5M
-•	Size: 2.15GB
-•	Timeline: 2016 - 2019
-•	Format: CSV
+*	Total number of records: 5M
+*	Size: 2.15GB
+*	Timeline: 2016 - 2019
+*	Format: CSV
 
 London:
-•	Record: 5M
-•	Size: 4.01GB
-•	Timeline: 2016 - 2019
-•	Format: CSV
+*	Record: 5M
+*	Size: 4.01GB
+*	Timeline: 2016 - 2019
+*	Format: CSV
 
 Location Details:
-•	GeoJson file for each city
+*	GeoJson file for each city
 
 Dataset Screenshots:
 
