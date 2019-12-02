@@ -122,13 +122,35 @@ reduce function ()
 }
 
 
+## Results and Visualization
+
+* After analyzing the data, Quicksight was used for visualization the output. 
+* The Quicksight used the output given by the EMR service. 
+* This was helpful in understanding the data better. 
+
+### MapReduce output
+All the routes which has more fluctuations in travel time based on hour of the day
+
+![MapReduce-output](https://github.com/shivassg/Bigdata-project/blob/master/Images/MapReduce-output.png)
+
+### MapReduce Visualization
+
+![Map-Reduce-Visualization1](https://github.com/shivassg/Bigdata-project/blob/master/Images/Map-Reduce-Visualization1.png)
+
+![Map-Reduce-Visualization2](https://github.com/shivassg/Bigdata-project/blob/master/Images/Map-Reduce-Visualization2.png)
+
+### Hive Output
+All the routes which has more fluctuations in travel time based on hour of the day
+
+![Hive-output](https://github.com/shivassg/Bigdata-project/blob/master/Images/Hive-output.png)
+
+### Hive Visualization
+
+![Hive-Visualization](https://github.com/shivassg/Bigdata-project/blob/master/Images/Hive-Visualization.png)
+
+
 ## Conclusion:
 This project will analyze the dataset provided by Uber. The insights from analyzing the huge data will be helpful to understand the city better and address urban transportation challenges. The main task in the project will be handling the huge dataset using big data solutions. 
-
-
-
-
-
 
 
 ## Group Members:
