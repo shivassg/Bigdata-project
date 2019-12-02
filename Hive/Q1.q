@@ -1,0 +1,1 @@
+INSERT OVERWRITE DIRECTORY 's3://uberdataset/hiveoutput/Q1' SELECT COUNT(*) count FROM london_data;
