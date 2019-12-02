@@ -135,9 +135,9 @@ All the routes which has more fluctuations in travel time based on hour of the d
 
 ### MapReduce Visualization
 
-![Map-Reduce-Visualization1](https://github.com/shivassg/Bigdata-project/blob/master/Images/Map-Reduce-Visualization1.png)
+![Map-Reduce-Visualization1](https://github.com/shivassg/Bigdata-project/blob/master/Images/Map-Reduce-Visualization1.jpeg)
 
-![Map-Reduce-Visualization2](https://github.com/shivassg/Bigdata-project/blob/master/Images/Map-Reduce-Visualization2.png)
+![Map-Reduce-Visualization2](https://github.com/shivassg/Bigdata-project/blob/master/Images/Map-Reduce-Visualization2.jpeg)
 
 ### Hive Output
 All the routes which has more fluctuations in travel time based on hour of the day
