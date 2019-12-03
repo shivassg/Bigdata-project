@@ -27,10 +27,6 @@ The data provided by the uber consists of the travel time taken within the citie
 
 In this problem statement, we are going to analyze the average uber travel times by city wise. The data is provided for multiple cities by Uber. We can analyze the average uber travel time in different cities. This can help us in finding which city has worse traffic conditions. 
 
-### Problem Statement 3: Analyze the travel times taken within the city based on weather conditions using weather API
-
-Using openweathermap API we can fetch the weather details for a particular city. We can use this data in addition to uber movement data to analyze the travel times taken within the city based on the weather conditions. This can help us in understanding the traffic patterns for the routes in the city based on the climatic conditions.  
-
 
 ## Data Set:
 Downloading Dataset:
