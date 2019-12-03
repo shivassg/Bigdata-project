@@ -148,6 +148,21 @@ All the routes which has more fluctuations in travel time based on hour of the d
 
 ![Hive-Visualization](https://github.com/shivassg/Bigdata-project/blob/master/Images/Hive-Visualization.png)
 
+### Spark Output
+The average Uber travel times by city wise
+
+![Spark-output](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-output.png)
+
+### Spark Visualization
+Boston City:
+![Spark-Visualization-Boston](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-Boston-Visualization.png)
+
+Los-Angeles City:
+![Spark-Visualization-LA](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-Los-Angeles-Visualization.png)
+
+All Cities:
+![Spark-Visualization-All-Cities](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-All-Cities-Visualization.png)
+
 
 ## Conclusion:
 This project will analyze the dataset provided by Uber. The insights from analyzing the huge data will be helpful to understand the city better and address urban transportation challenges. The main task in the project will be handling the huge dataset using big data solutions. 
