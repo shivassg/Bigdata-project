@@ -38,7 +38,7 @@ public class TopTenRoutes {
 			rf = transformStringToRoutesInfo(line);
 			top10Routes.add(rf);
 			if(top10Routes.size()>10){
-				top10Routes.remove(top10Routes.first());
+				top10Routes.remove(top10Routes.last());
 			}
 		}
 			
