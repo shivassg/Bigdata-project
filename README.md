@@ -151,7 +151,7 @@ All the routes which has more fluctuations in travel time based on hour of the d
 ### Spark Output
 The average Uber travel times by city wise
 
-![Spark-output](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-output.png)
+![Spark-output](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-Output.png)
 
 ### Spark Visualization
 Boston City:
