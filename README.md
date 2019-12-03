@@ -155,12 +155,17 @@ The average Uber travel times by city wise
 
 ### Spark Visualization
 Boston City:
+
 ![Spark-Visualization-Boston](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-Boston-Visualization.png)
 
+
 Los-Angeles City:
+
 ![Spark-Visualization-LA](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-Los-Angeles-Visualization.png)
 
+
 All Cities:
+
 ![Spark-Visualization-All-Cities](https://github.com/shivassg/Bigdata-project/blob/master/Images/Spark-All-Cities-Visualization.png)
 
 
